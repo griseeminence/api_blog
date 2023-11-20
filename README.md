@@ -26,7 +26,7 @@ Python, Django, Django REST Framework.
 - From the project’s working folder, execute the command “python manage.py runserver”.
 - In the address bar of the browser, enter the address "http://127.0.0.1:8000/api/v1/".
 
-### **Лицензия**  
+### **License**  
 MIT License
 
 Copyright (c) [2023] 
